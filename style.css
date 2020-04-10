@@ -1,0 +1,49 @@
+.container {
+    font-family: 'Poppins', sans-serif;
+}
+.see {
+    color: orange;
+    font-size: 20px;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgb(207, 206, 206);
+}
+.card-body {
+    text-align: center;
+}
+.card-footer {
+    text-align: center;
+    border: none;
+    background-color: white;
+}
+.categories {
+    margin-top: 100px;
+    text-align: center;
+}
+.cat-underline{
+    width: 160px;
+    height: 10px;
+    border-radius: 10px;
+    margin: 10px auto;
+    background-image: linear-gradient( to right, rgb(245, 226, 174), orange);
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.cat-images {
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+img {
+    vertical-align: middle;
+}
+footer {
+    margin-top: 100px;
+    text-align: center;
+    color: gray;
+}
